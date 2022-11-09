@@ -7,5 +7,5 @@ The user can share the link of the site on which he/she was searching he/she can
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://i.imgur.com/GcmYqqU.gifv/" width=320>
+<img src="https://i.imgur.com/GcmYqqU.gifv" width=320>
 
